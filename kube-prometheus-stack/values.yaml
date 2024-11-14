@@ -4754,4 +4754,4 @@ grafana:
   enabled: false
 
 blackboxExporter:
-  enabled: true
+  enabled: false
